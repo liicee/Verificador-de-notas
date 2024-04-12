@@ -1,0 +1,13 @@
+print("ola vamos ver sua nota?" )
+n= float(input(" insire sua nota:  "))
+
+if n>+9:
+	print("Sua nota foi: A")
+elif n>+7.5:
+	print("Sua nota foi: B")
+elif n> + 6:
+	print("Sua nota foi: C")
+elif n> +4
+	print ("Sua nota foi: D")
+else:
+	print( " Sua nota foi: F)
